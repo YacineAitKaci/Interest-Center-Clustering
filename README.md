@@ -8,7 +8,7 @@ This project applies K-Means clustering to group individuals based on their inte
 
 The dataset, **kaggle_Interests_group.csv**, contains user information and interest-based features.
 
-**Key features:**
+1. **Key features:**
     - Various interest categories as numerical values.
     - Users represented as feature vectors.
 
