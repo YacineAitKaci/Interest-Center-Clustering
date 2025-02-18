@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 2. **Run the clustering script:**
 ```bash 
-python K-Means.ipynb
+jupyter notebook K-Means.ipynb
 ```
 
 ## 📌 Key Insights
